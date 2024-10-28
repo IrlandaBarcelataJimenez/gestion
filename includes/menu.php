@@ -1,0 +1,2 @@
+<a href="listaPokemon.php" class="bg-dark text-decoration-none text-white btn btn-primary">Listar Pokemones</a>
+<a href="crearPokemon.php" class="bg-dark text-decoration-none text-white btn btn-primary">Agregar Pokemones</a>
